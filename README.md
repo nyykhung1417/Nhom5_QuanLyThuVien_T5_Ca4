@@ -6,7 +6,7 @@ Các thành viên của project
   <li> Huỳnh Đức Tiến </li>
 </ul>
 
-- Nội dung đề tài :  CapT Library là một thư viện mang đến cho các độc giả kho tàng kiến thức và mang lại nhiều tư liệu từ lịch sử đến văn hóa. Cho đến nay thư viện của chúng tôi đã có một lượng độc giả nhất định.
+Nội dung đề tài :  CapT Library là một thư viện mang đến cho các độc giả kho tàng kiến thức và mang lại nhiều tư liệu từ lịch sử đến văn hóa. Cho đến nay thư viện của chúng tôi đã có một lượng độc giả nhất định.
 
 Để mở rộng quy mô hoạt động vì thế chúng tôi đã xây dụng một hệ thống thương mại điện tử, nhằm mở rộng sự liên kết đến độc giả thông qua Internet.
 

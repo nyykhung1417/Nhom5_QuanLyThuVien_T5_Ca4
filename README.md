@@ -1,9 +1,9 @@
 Các thành viên của project
 <ul>
   <li> Phạm Thái Phi </li>
-  <li> Phạm Thái Phi </li>
-  <li> Phạm Thái Phi </li>
-  <li> Phạm Thái Phi </li>
+  <li> Trần Lê Duy An </li>
+  <li> Dương Hồ Anh Cường </li>
+  <li> Huỳnh Đức Tiến </li>
 </ul>
 
 - Nội dung đề tài :  CapT Library là một thư viện mang đến cho các độc giả kho tàng kiến thức và mang lại nhiều tư liệu từ lịch sử đến văn hóa. Cho đến nay thư viện của chúng tôi đã có một lượng độc giả nhất định.
@@ -19,4 +19,5 @@ Hệ thống của chúng tôi cũng cần có phân hệ để đảm bảo cho
 + Thủ thư : Thêm sách mới vào thư viện , xử lý đơn mượn sách , thống kê sách , duyệt trả sách , đăng bài viết cho thư viện
 + Admin : quản lý tài khoản , quản lý quyền truy cập , quản lý thêm thông tin sách , quản lý danh mục 
 
-Hướng phát triển : Hiện tại thư viên CAPT đã thực hiện được những chức năng đã đề ra trong các sprint , hướng phát triển tiếp theo là sẽ có 
+Hướng phát triển : Hiện tại thư viên CAPT đã thực hiện được những chức năng đã đề ra trong các sprint , hướng phát triển tiếp theo là sẽ có thêm nhiều chức năng hơn cho đọc giả như : mua sách , gửi liên hệ góp ý đến thư viện ...
+

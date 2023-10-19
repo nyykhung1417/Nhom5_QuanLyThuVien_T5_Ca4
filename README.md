@@ -1,5 +1,6 @@
 
-![image](https://github.com/nyykhung1417/Nhom5_QuanLyThuVien_T5_Ca4/assets/132865869/6fd298c3-0874-4368-b9fa-8f3aebb8e308)
+<img src="![Thành viên](https://github.com/nyykhung1417/Nhom5_QuanLyThuVien_T5_Ca4/assets/132865869/0f521986-480a-4342-a626-baf28d0fb78e)
+">
 
 - Nội dung đề tài :  CapT Library là một thư viện mang đến cho các độc giả kho tàng kiến thức và mang lại nhiều tư liệu từ lịch sử đến văn hóa. Cho đến nay thư viện của chúng tôi đã có một lượng độc giả nhất định.
 

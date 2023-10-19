@@ -1,11 +1,17 @@
-1	Phạm Thái Phi	phipham1	TeamLead	15/9/2023	19/11/2023
-2	Dương Hồ Anh Cương	cuongduong1	Dev	15/9/2023	19/11/2023
-3	Huỳnh Đức Tiến	ductien1	Scrum master	15/9/2023	19/11/2023
-4	Trần Lê Duy An	antran1	Product Owner	15/9/2023	19/11/2023
+
 ![image](https://github.com/nyykhung1417/Nhom5_QuanLyThuVien_T5_Ca4/assets/132865869/6fd298c3-0874-4368-b9fa-8f3aebb8e308)
 
-Thư viện là gì? Thư viện là một cơ sở, tổ chức và cung cấp các tài liệu thông tin như sách, báo, tạp chí,... Thư viện có vai trò quan trọng trong việc thu nhập, bảo quản và cung cấp thông tin cho cộng đồng.
-Thư viện có thể phục vụ rất nhiều đối tượng, bao gồm học sinh, sinh viên, nhà nghiên cứu, giáo viên, nhân viên văn phòng và công chúng. Thư viện có thể có nhiều loại bao gồm thư viện công cộng, thư viện học viện, thư viện trường học, thư viện chuyên ngành. Mỗi loại thư viện có mục tiêu và phạm vi phục vụ khác nhau, nhưng chung quy lại, chúng đều nhằm mục đích cung cấp thông tin và tài nguyên cho cộng đồng.
-Trong thời đại công nghệ thông tin, thư viện cũng đã phát triển các dịch vụ trực tuyến, cho phép người dùng truy cập và tìm kiếm thông tin từ xa. Các thư viện số và cơ sở dữ liệu trực tuyến cung cấp khả năng truy cập vào hàng ngàn tài liệu điện tử và nguồn thông tin trực tuyến.
-Tóm lại, thư viện là một cơ sở quan trọng trong việc thu nhập, lưu trữ và cung cấp thông tin cho cộng đồng. Nó đóng vai trò quan trọng trong việc khuyến khích học tập, nghiên cứu và truyền bá kiến thức. Nắm bắt được nguồn tiềm năng đến từ sách, thư viện nhóm chúng tôi đã chọn và tạo ra phần mềm giúp mọi người có thể tìm và mượn sách trực tuyến. Chỉ với cú click chuột, bạn có ngay cho mình một kiến thức để tiếp tục phát huy, phát triển kiến thức của bản thân, mở mang đầu óc. 
-Phần mềm quản lí thư viện là 1 trang web do nhóm em thiết kế để giúp quản lí và tổ chức các hoạt động trong một thư viện. Nó cung cấp các công cụ và tính năng để quán lí thông tin về sách, người đọc, mượn/trả sách, tài liệu và các hoạt động khác liên quan đến thư viện. 
+- Nội dung đề tài :  CapT Library là một thư viện mang đến cho các độc giả kho tàng kiến thức và mang lại nhiều tư liệu từ lịch sử đến văn hóa. Cho đến nay thư viện của chúng tôi đã có một lượng độc giả nhất định.
+
+Để mở rộng quy mô hoạt động vì thế chúng tôi đã xây dụng một hệ thống thương mại điện tử, nhằm mở rộng sự liên kết đến độc giả thông qua Internet.
+
+Hệ thống mới đảm bảo cho độc giả khi truy cập sẽ dễ dàng tìm kiếm và lựa chọn những cuốn sách theo đúng nhu cầu của từng cá nhân. Độc giả có thể dễ dàng thiết lập một tài khoản và thực hiện việc mượn sách mà mình mong muốn. Người đọc có thể nhận sách qua các hình thức như nhận trực tiếp tại thư viện hoặc có thể chọn dịch vụ giao hàng tận nơi với một mức phí phù hợp. 
+
+Hệ thống của chúng tôi cũng cần có phân hệ để đảm bảo cho thư viện quản lý các hoạt động cho mượn sách như số lượng sách, quản lý đơn mượn và các tình trạng sách v.v
+- Các actor chính của thư viên CAPT : Đọc giả , Admin , Thủ thư
+- Các chức năng chính của thư viên CAPT :
++ Đọc giả : Xem trang chủ , xem list sách , xem chi tiết sách , mượn sách , đăng ký thẻ thành viên , xem lịch sử mượn sách , đánh giá sách , tìm kiếm sách , xem bài viết
++ Thủ thư : Thêm sách mới vào thư viện , xử lý đơn mượn sách , thống kê sách , duyệt trả sách , đăng bài viết cho thư viện
++ Admin : quản lý tài khoản , quản lý quyền truy cập , quản lý thêm thông tin sách , quản lý danh mục 
+
+Hướng phát triển : Hiện tại thư viên CAPT đã thực hiện được những chức năng đã đề ra trong các sprint , hướng phát triển tiếp theo là sẽ có 

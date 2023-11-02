@@ -1,6 +1,7 @@
 # ĐỀ TÀI: QUẢN LÍ THƯ VIỆN
 
-![Trang chủ](https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/395102204_357984270012517_1704532096803183177_n.png?stp=dst-png_s417x417&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=N3_iytH74n0AX8UWih9&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdRt1ALrQI6TfqfIlf0XJYFHl2wcALPcBrxdfxWlzNn-mA&oe=656AE765)
+<img src="(https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/395102204_357984270012517_1704532096803183177_n.png?stp=dst-png_s417x417&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=N3_iytH74n0AX8UWih9&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdRt1ALrQI6TfqfIlf0XJYFHl2wcALPcBrxdfxWlzNn-mA&oe=656AE765">
+
 
 # GIỚI THIỆU ĐỀ TÀI
 Mục tiêu chính của đề tài này là phát triển một hệ thống quản lí trang web thư viện hiệu quả, giúp người dùng tìm kiếm và truy cập thông tin về sách, báo, tạp chí, tài liệu điện tử và các nguồn tài liệu khác. Hệ thống cũng cung cấp các chức năng như mượn/trả sách trực tuyến, đặt sách trước, ghi nhận lịch sử mượn sách và quản lí người dùng.

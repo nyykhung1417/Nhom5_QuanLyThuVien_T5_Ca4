@@ -43,4 +43,17 @@ Dưới đây là một số tính năng cơ bản mà hệ thống quản lí t
 <img style="width:400px, height: 250px" src="https://www.bootstrapdash.com/wp-content/uploads/2017/08/bootstrap-4-beta-whats-new.jpg">
 
 # HƯỚNG PHÁT TRIỂN
+- Quản lý người dùng: Xây dựng chức năng đăng ký và đăng nhập để người dùng có thể tạo tài khoản và quản lý thông tin cá nhân của mình. Ngoài ra, hệ thống cũng nên hỗ trợ phân quyền truy cập, giúp quản trị viên có thể quản lý và kiểm soát quyền truy cập của người dùng.
+
+- Tra cứu và tìm kiếm: Cung cấp chức năng tra cứu và tìm kiếm tài liệu là một yếu tố quan trọng trong một trang web quản lí thư viện. Người dùng nên có thể tìm kiếm sách theo tiêu đề, tác giả, chủ đề hoặc từ khóa khác. Kết quả tìm kiếm nên được hiển thị một cách dễ nhìn và cung cấp thông tin chi tiết về sách.
+
+- Mượn/trả sách trực tuyến: Tạo ra chức năng mượn/trả sách trực tuyến giúp người dùng tiết kiệm thời gian và tiện lợi. Người dùng nên có thể xem tình trạng sách, đặt lịch mượn, và thực hiện các thao tác mượn/trả sách qua trang web.
+
+- Quản lý thông tin sách: Hệ thống cần cung cấp chức năng quản lý thông tin sách, bao gồm cập nhật thông tin sách, thêm mới sách, xóa sách và đánh dấu sách hết hạn. Quản trị viên cần có quyền truy cập để thực hiện các tác vụ này.
+
+- Thống kê và báo cáo: Tạo ra chức năng thống kê và báo cáo để theo dõi hoạt động của thư viện. Các báo cáo có thể bao gồm số lượng sách mượn/trả, số lượng người dùng, sách phổ biến, và các chỉ số khác liên quan đến hoạt động của thư viện.
+
+- Tích hợp tài liệu điện tử: Nếu thư viện cung cấp tài liệu điện tử, hệ thống cần hỗ trợ việc quản lý và cung cấp truy cập đến tài liệu này. Người dùng nên có thể tìm kiếm, xem trước và tải về tài liệu điện tử từ trang web thư viện.
+
+
 

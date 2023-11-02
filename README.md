@@ -1,6 +1,6 @@
 # ĐỀ TÀI: QUẢN LÍ THƯ VIỆN
 
-<img style="height: 250px" src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/395102204_357984270012517_1704532096803183177_n.png?_nc_cat=110&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=N3_iytH74n0AX8UWih9&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdRkulxyeWDfoC1WM0OJYYlNZv3NznDTSrFded2kbOJOdg&oe=656AE765">
+<img src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/395102204_357984270012517_1704532096803183177_n.png?_nc_cat=110&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=N3_iytH74n0AX8UWih9&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdRkulxyeWDfoC1WM0OJYYlNZv3NznDTSrFded2kbOJOdg&oe=656AE765">
 
 
 # GIỚI THIỆU ĐỀ TÀI
@@ -31,16 +31,16 @@ Dưới đây là một số tính năng cơ bản mà hệ thống quản lí t
 
 # CÔNG NGHỆ SỬ DỤNG
 - C#:
-<img style="width:800px, height: 250px" src="https://www.bairesdev.com/wp-content/uploads/2021/07/Csharp.svg">
+<img style="width:400px, height: 250px" src="https://www.bairesdev.com/wp-content/uploads/2021/07/Csharp.svg">
 
 - HTML: là ngôn ngữ để hỗ trợ xây dụng cấu trúc cơ bản cho bảng cho website của chúng em.
-<img style="width:800px, height: 250px" src="https://cdn.hanoi.codegym.vn/wp-content/uploads/sites/7/2022/12/HTML-la-gi.jpg">
+<img style="width:400px, height: 250px" src="https://cdn.hanoi.codegym.vn/wp-content/uploads/sites/7/2022/12/HTML-la-gi.jpg">
 
 - CSS: Đây là ngôn ngữ chính để đánh dấu, miêu tả và định dạng các phần tử HTML.
-<img style="width:800px, height: 250px" src="https://irp.cdn-website.com/c57d8c85/dms3rep/multi/css-la-gi.webp">
+<img style="width:400px, height: 250px" src="https://irp.cdn-website.com/c57d8c85/dms3rep/multi/css-la-gi.webp">
 
 - Bootstrap
-<img style="width:800px, height: 250px" src="https://www.bootstrapdash.com/wp-content/uploads/2017/08/bootstrap-4-beta-whats-new.jpg">
+<img style="width:400px, height: 250px" src="https://www.bootstrapdash.com/wp-content/uploads/2017/08/bootstrap-4-beta-whats-new.jpg">
 
 # HƯỚNG PHÁT TRIỂN
 

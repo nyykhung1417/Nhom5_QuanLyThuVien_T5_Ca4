@@ -10,15 +10,15 @@ Dưới đây là một số tính năng cơ bản mà hệ thống quản lí t
 
 - Đăng ký và quản lí người dùng: Hệ thống cho phép người dùng đăng ký tài khoản và quản lí thông tin cá nhân. Người dùng có thể xem thông tin về sách, tìm kiếm và đặt sách.
 
-_Tra cứu tài liệu: Hệ thống cung cấp chức năng tìm kiếm để người dùng có thể tra cứu thông tin về sách, báo, tạp chí và tài liệu điện tử trong tủ sách của thư viện. Người dùng có thể tìm kiếm theo tiêu đề, tác giả, chủ đề hoặc từ khóa khác.
+- Tra cứu tài liệu: Hệ thống cung cấp chức năng tìm kiếm để người dùng có thể tra cứu thông tin về sách, báo, tạp chí và tài liệu điện tử trong tủ sách của thư viện. Người dùng có thể tìm kiếm theo tiêu đề, tác giả, chủ đề hoặc từ khóa khác.
 
-_Mượn/trả sách trực tuyến: Hệ thống cho phép người dùng mượn sách và đặt lịch trả sách trên trang web. Người dùng có thể kiểm tra tình trạng sách và đặt sách trước khi đến thư viện.
+- Mượn/trả sách trực tuyến: Hệ thống cho phép người dùng mượn sách và đặt lịch trả sách trên trang web. Người dùng có thể kiểm tra tình trạng sách và đặt sách trước khi đến thư viện.
 
-_Quản lí lịch sử mượn sách: Hệ thống ghi nhận lịch sử mượn sách của mỗi người dùng, bao gồm thông tin về sách đã mượn, ngày mượn và ngày trả. Điều này giúp thư viện theo dõi việc sử dụng tài liệu và quản lí tình trạng sách.
+- Quản lí lịch sử mượn sách: Hệ thống ghi nhận lịch sử mượn sách của mỗi người dùng, bao gồm thông tin về sách đã mượn, ngày mượn và ngày trả. Điều này giúp thư viện theo dõi việc sử dụng tài liệu và quản lí tình trạng sách.
 
-_Thông báo và cập nhật: Hệ thống có thể cung cấp thông báo và cập nhật về các sự kiện, chương trình hoặc thay đổi mới trong thư viện. Người dùng có thể nhận thông báo qua email hoặc thông qua trang web.
+- Thông báo và cập nhật: Hệ thống có thể cung cấp thông báo và cập nhật về các sự kiện, chương trình hoặc thay đổi mới trong thư viện. Người dùng có thể nhận thông báo qua email hoặc thông qua trang web.
 
-_Quản lí tài liệu điện tử: Nếu thư viện cung cấp tài liệu điện tử, hệ thống cần hỗ trợ việc quản lí và cung cấp truy cập đến tài liệu này. Người dùng có thể tìm kiếm, xem trước và tải về tài liệu điện tử từ trang web thư viện.
+- Quản lí tài liệu điện tử: Nếu thư viện cung cấp tài liệu điện tử, hệ thống cần hỗ trợ việc quản lí và cung cấp truy cập đến tài liệu này. Người dùng có thể tìm kiếm, xem trước và tải về tài liệu điện tử từ trang web thư viện.
 
 # GIỚI THIỆU NHÓM 5
 ------------------------------------------------------------

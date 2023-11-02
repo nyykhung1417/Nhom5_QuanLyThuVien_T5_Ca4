@@ -20,8 +20,7 @@ _Thông báo và cập nhật: Hệ thống có thể cung cấp thông báo và
 
 _Quản lí tài liệu điện tử: Nếu thư viện cung cấp tài liệu điện tử, hệ thống cần hỗ trợ việc quản lí và cung cấp truy cập đến tài liệu này. Người dùng có thể tìm kiếm, xem trước và tải về tài liệu điện tử từ trang web thư viện.
 
-# GIỚI THIỆU NHÓM
-NHÓM 5
+# GIỚI THIỆU NHÓM 5
 ------------------------------------------------------------
 | STT | HỌ TÊN | NAME OF DEV | VAI TRÒ |
 |----|--------|-------------|------------------|
@@ -29,5 +28,7 @@ NHÓM 5
 |2 | Dương Hồ Anh Cường | cuongduong1 | Dev |
 |3 | Trần Lê Duy An | antran1 | Product Owner, Dev |
 |4 | Huỳnh Đức Tiến | tienduc1 | Scrum master, Dev |
+
+
 
 

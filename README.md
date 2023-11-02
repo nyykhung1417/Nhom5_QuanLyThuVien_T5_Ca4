@@ -31,7 +31,7 @@ Dưới đây là một số tính năng cơ bản mà hệ thống quản lí t
 
 # CÔNG NGHỆ SỬ DỤNG
 - C#:
-<img style="width:200px, height: 100px" src="https://www.bairesdev.com/wp-content/uploads/2021/07/Csharp.svg">
+<img style="width:200px, height: 20px" src="https://www.bairesdev.com/wp-content/uploads/2021/07/Csharp.svg">
 
 - HTML: là ngôn ngữ để hỗ trợ xây dụng cấu trúc cơ bản cho bảng cho website của chúng em.
 <img style="width:400px, height: 250px" src="https://cdn.hanoi.codegym.vn/wp-content/uploads/sites/7/2022/12/HTML-la-gi.jpg">

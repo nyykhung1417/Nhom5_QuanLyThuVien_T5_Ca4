@@ -23,11 +23,11 @@ _Quản lí tài liệu điện tử: Nếu thư viện cung cấp tài liệu �
 # GIỚI THIỆU NHÓM
 NHÓM 5
 ------------------------------------------------------------
-STT | HỌ TÊN | NAME OF DEV | VAI TRÒ |
-----|--------|-------------|---------|---------
-1 | Phạm Thái Phi | phipham1 | Leader, Dev |
-2 | Dương Hồ Anh Cường | cuongduong1 | Dev |
-3 | Trần Lê Duy An | antran1 | Product Owner, Dev |
-4 | Huỳnh Đức Tiến | tienduc1 | Scrum master, Dev |
+| STT | HỌ TÊN | NAME OF DEV | VAI TRÒ |
+|----|--------|-------------|------------------|
+|1 | Phạm Thái Phi | phipham1 | Leader, Dev |
+|2 | Dương Hồ Anh Cường | cuongduong1 | Dev |
+|3 | Trần Lê Duy An | antran1 | Product Owner, Dev |
+|4 | Huỳnh Đức Tiến | tienduc1 | Scrum master, Dev |
 
 

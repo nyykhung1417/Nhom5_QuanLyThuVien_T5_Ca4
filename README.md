@@ -6,6 +6,9 @@ Các thành viên của project
   <li> Huỳnh Đức Tiến </li>
 </ul>
 
+![image](https://github.com/nyykhung1417/Nhom5_QuanLyThuVien_T5_Ca4/assets/132865869/a7d5e7fe-a2ee-4c40-9886-301836bde0fc)
+
+
 Nội dung đề tài :  CapT Library là một thư viện mang đến cho các độc giả kho tàng kiến thức và mang lại nhiều tư liệu từ lịch sử đến văn hóa. Cho đến nay thư viện của chúng tôi đã có một lượng độc giả nhất định.
 
 Để mở rộng quy mô hoạt động vì thế chúng tôi đã xây dụng một hệ thống thương mại điện tử, nhằm mở rộng sự liên kết đến độc giả thông qua Internet.
@@ -21,3 +24,4 @@ Hệ thống của chúng tôi cũng cần có phân hệ để đảm bảo cho
 
 Hướng phát triển : Hiện tại thư viên CAPT đã thực hiện được những chức năng đã đề ra trong các sprint , hướng phát triển tiếp theo là sẽ có thêm nhiều chức năng hơn cho đọc giả như : mua sách , gửi liên hệ góp ý đến thư viện ...
 
+Công nghệ sử dụng : 

@@ -1,6 +1,6 @@
 # ĐỀ TÀI: QUẢN LÍ THƯ VIỆN
 
-<img style="width: 1000px; height: 500px" src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/395102204_357984270012517_1704532096803183177_n.png?stp=dst-png_s417x417&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=N3_iytH74n0AX8UWih9&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdRt1ALrQI6TfqfIlf0XJYFHl2wcALPcBrxdfxWlzNn-mA&oe=656AE765">
+<img style="width: 500px; height: 250px" src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/395102204_357984270012517_1704532096803183177_n.png?stp=dst-png_s417x417&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=N3_iytH74n0AX8UWih9&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdRt1ALrQI6TfqfIlf0XJYFHl2wcALPcBrxdfxWlzNn-mA&oe=656AE765">
 
 
 # GIỚI THIỆU ĐỀ TÀI

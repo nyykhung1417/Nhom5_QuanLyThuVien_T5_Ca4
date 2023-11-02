@@ -8,7 +8,7 @@ Mục tiêu chính của đề tài này là phát triển một hệ thống qu
 
 Dưới đây là một số tính năng cơ bản mà hệ thống quản lí trang web thư viện:
 
-_Đăng ký và quản lí người dùng: Hệ thống cho phép người dùng đăng ký tài khoản và quản lí thông tin cá nhân. Người dùng có thể xem thông tin về sách, tìm kiếm và đặt sách.
+- Đăng ký và quản lí người dùng: Hệ thống cho phép người dùng đăng ký tài khoản và quản lí thông tin cá nhân. Người dùng có thể xem thông tin về sách, tìm kiếm và đặt sách.
 
 _Tra cứu tài liệu: Hệ thống cung cấp chức năng tìm kiếm để người dùng có thể tra cứu thông tin về sách, báo, tạp chí và tài liệu điện tử trong tủ sách của thư viện. Người dùng có thể tìm kiếm theo tiêu đề, tác giả, chủ đề hoặc từ khóa khác.
 

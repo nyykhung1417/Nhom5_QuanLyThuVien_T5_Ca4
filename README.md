@@ -6,7 +6,7 @@ Các thành viên của project
   <li> Huỳnh Đức Tiến </li>
 </ul>
 
-![image](https://github.com/nyykhung1417/Nhom5_QuanLyThuVien_T5_Ca4/assets/132865869/a7d5e7fe-a2ee-4c40-9886-301836bde0fc)
+
 
 
 Nội dung đề tài :  CapT Library là một thư viện mang đến cho các độc giả kho tàng kiến thức và mang lại nhiều tư liệu từ lịch sử đến văn hóa. Cho đến nay thư viện của chúng tôi đã có một lượng độc giả nhất định.

@@ -42,5 +42,5 @@ Dưới đây là một số tính năng cơ bản mà hệ thống quản lí t
 - Bootstrap
 <img style="width:800px, height: 250px" src="https://www.bootstrapdash.com/wp-content/uploads/2017/08/bootstrap-4-beta-whats-new.jpg">
 
-
+# HƯỚNG PHÁT TRIỂN
 

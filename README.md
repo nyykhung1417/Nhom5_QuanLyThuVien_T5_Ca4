@@ -34,7 +34,7 @@ Dưới đây là một số tính năng cơ bản mà hệ thống quản lí t
 <img style="width:200px, height: 20px" src="https://www.bairesdev.com/wp-content/uploads/2021/07/Csharp.svg">
 
 - HTML: là ngôn ngữ để hỗ trợ xây dụng cấu trúc cơ bản cho bảng cho website của chúng em.
-<img style="width:400px, height: 250px" src="https://cdn.hanoi.codegym.vn/wp-content/uploads/sites/7/2022/12/HTML-la-gi.jpg](https://cdn.hanoi.codegym.vn/wp-content/uploads/sites/7/2022/12/HTML-la-gi.jpg">
+<img src="https://cdn.hanoi.codegym.vn/wp-content/uploads/sites/7/2022/12/HTML-la-gi.jpg">
 
 - CSS: Đây là ngôn ngữ chính để đánh dấu, miêu tả và định dạng các phần tử HTML.
 <img style="width:400px, height: 250px" src="https://irp.cdn-website.com/c57d8c85/dms3rep/multi/css-la-gi.webp">

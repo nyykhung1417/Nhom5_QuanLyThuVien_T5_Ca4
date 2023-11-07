@@ -31,16 +31,16 @@ Dưới đây là một số tính năng cơ bản mà hệ thống quản lí t
 
 # CÔNG NGHỆ SỬ DỤNG
 - C#:
-<img style="width:200px, height: 20px" src="https://www.bairesdev.com/wp-content/uploads/2021/07/Csharp.svg">
+<img src="https://www.bairesdev.com/wp-content/uploads/2021/07/Csharp.svg">
 
 - HTML: là ngôn ngữ để hỗ trợ xây dụng cấu trúc cơ bản cho bảng cho website của chúng em.
 <img src="https://cdn.hanoi.codegym.vn/wp-content/uploads/sites/7/2022/12/HTML-la-gi.jpg">
 
 - CSS: Đây là ngôn ngữ chính để đánh dấu, miêu tả và định dạng các phần tử HTML.
-<img style="width:400px, height: 250px" src="https://irp.cdn-website.com/c57d8c85/dms3rep/multi/css-la-gi.webp">
+<img src="https://irp.cdn-website.com/c57d8c85/dms3rep/multi/css-la-gi.webp">
 
 - Bootstrap
-<img style="width:400px, height: 250px" src="https://www.bootstrapdash.com/wp-content/uploads/2017/08/bootstrap-4-beta-whats-new.jpg">
+<img src="https://www.bootstrapdash.com/wp-content/uploads/2017/08/bootstrap-4-beta-whats-new.jpg">
 
 # HƯỚNG PHÁT TRIỂN
 - Quản lý người dùng: Xây dựng chức năng đăng ký và đăng nhập để người dùng có thể tạo tài khoản và quản lý thông tin cá nhân của mình. Ngoài ra, hệ thống cũng nên hỗ trợ phân quyền truy cập, giúp quản trị viên có thể quản lý và kiểm soát quyền truy cập của người dùng.

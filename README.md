@@ -40,7 +40,7 @@ Dưới đây là một số tính năng cơ bản mà hệ thống quản lí t
 <img style="width: 500px; height: 294px" src="https://irp.cdn-website.com/c57d8c85/dms3rep/multi/css-la-gi.webp">
 
 - Bootstrap
-<img style="width: 500px; height: 294px" src="https://www.bootstrapdash.com/wp-content/uploads/2017/08/bootstrap-4-beta-whats-new.jpg">
+<img style="width: 500px; height: 290px" src="https://www.bootstrapdash.com/wp-content/uploads/2017/08/bootstrap-4-beta-whats-new.jpg">
 
 # HƯỚNG PHÁT TRIỂN
 - Quản lý người dùng: Xây dựng chức năng đăng ký và đăng nhập để người dùng có thể tạo tài khoản và quản lý thông tin cá nhân của mình. Ngoài ra, hệ thống cũng nên hỗ trợ phân quyền truy cập, giúp quản trị viên có thể quản lý và kiểm soát quyền truy cập của người dùng.
